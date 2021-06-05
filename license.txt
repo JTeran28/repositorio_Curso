@@ -386,3 +386,5 @@ included with WordPress can be freely obtained at the following URL:
 
 Se agrega una nueva linea
 Agrego una linea después del add
+
+Cambios al iniciar de nuevo
