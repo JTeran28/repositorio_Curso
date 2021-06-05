@@ -5,3 +5,5 @@ Se agrega una nueva linea
 Agrego una linea después del add
 
 Cambios al iniciar de nuevo
+
+Cambios en el remoto
